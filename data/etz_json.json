@@ -1,0 +1,111 @@
+{
+
+    
+    "eye_tracker_hertz":"250",
+    "monitor_size":"(14, 10.6) horz, vertical in cm",
+    "saccade_threshold_degree": "130 saccade threshold in degrees",
+    "upper_thr_sacc_deg": "750", 
+    "thr_fix_deg": "50",  
+    "thr_fix_dur_millisec": "75",
+    "subj_dist": "45 in cm",
+    "idt_disp_thrs":   "600 ",
+    "idt_min_count":  "130",
+
+    "generate_logs":  "fale",
+    "bw_cuttoff_freq":  "130",
+
+    "fill_missing_gap":
+    [
+        {
+            "max_gap_lenght_ms":  "75"
+        }
+    ],
+
+    
+    "gaze_metrics":
+    [
+        {
+            "latency_velocity_threshold":  "5",
+            "saccade_latency_velocity":  "20",
+            "saccade_latency_time_threshold":  "32"
+
+        }
+    ],
+
+   
+
+    "screen_information":
+    [
+        {
+            "screen_width":  "1600",
+            "screen_height":  "900",
+
+            "pixels_per_mm":  "5.42",
+            "mm_from_screen":  "600"
+        }
+    ],
+
+    "cartesian_coordinate_to_norma":
+    [
+        {
+        "Xwmin":  "-8.89",
+        "Ywmin":  "-5.02",
+        "Xwmax":  "8.89",
+        "Ywmax":  "5.02",
+
+        "Xvmin":  "0",
+        "Yvmin":  "0",
+        "Xvmax":  "1",
+        "Yvmax":  "1"
+        }
+    ],
+
+    "eyetracking_data":
+    [
+        {
+            
+            "e_pos_Lx":"left_x", 
+            "e_pos_Ly":"left_y",
+            "e_pos_Rx":"right_x", 
+            "e_pos_Ry":"right_y",
+            "e_time":"timestamp"
+        }
+    ],
+
+    "task_data":
+    [
+        {
+            "task_pos_x":"task_x", 
+            "task_pos_y":"task_y",
+            "task_time":"timestamp"
+        }
+    ],
+
+    "all_data":
+    [
+        {
+            "e_pos_Lx":"left_x", 
+            "e_pos_Ly":"left_y",
+            "e_pos_Rx":"right_x", 
+            "e_pos_Ry":"right_y",
+            "task_pos_x":"task_x", 
+            "task_pos_y":"task_y",
+            "time":"timestamp"
+        }
+    ],
+
+    "et_data_coordination":"normalize or coordinate system",
+    "task_data_coordination":"normalize or coordinate system",
+    "data_transformation":"normalize or coordinate system",
+    
+    "screen_resolution": 
+    [
+        {
+            "screen_height_px":"wirte name of task", 
+            "screen_width_px":"wirte column name id", 
+            "screen_width_cm":"wirte column name starting point", 
+            "screen_height_cm":"wirte column name ending point"
+        }
+    ]
+
+}
