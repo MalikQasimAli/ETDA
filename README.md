@@ -3,15 +3,14 @@
 
 An open-source library to extract events and measurements from raw eye-tracking data. 
 
-![allgroups_circular_pyschopy](https://github.com/user-attachments/assets/a304afc1-37cd-40c6-9d52-ab4426a71f30)
-
+<img src="https://github.com/user-attachments/assets/a304afc1-37cd-40c6-9d52-ab4426a71f30" alt="allgroups_circular_pyschopy" width="500"/>
 
 
 
 
 ## Deployment
 
-To deploy this project download or pull
+To deploy this project, download or pull
 
 ```bash
   https://github.com/MalikQasimAli/ETDA.git
