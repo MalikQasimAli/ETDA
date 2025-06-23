@@ -41,11 +41,11 @@ To deploy this project, download or pull
 ```
 As shown in the following figure.
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/fcd66c1c-8a04-4b33-9dcc-d4f7f21b510a" alt="etz" width="300"/>
+  <img src="https://github.com/user-attachments/assets/fcd66c1c-8a04-4b33-9dcc-d4f7f21b510a" alt="etz" width="400"/>
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/46a1d293-2ffd-45f2-96b6-96912978bd5a" alt="etz2" width="300"/>
+  <img src="https://github.com/user-attachments/assets/46a1d293-2ffd-45f2-96b6-96912978bd5a" alt="etz2" width="400"/>
 </div>
 
 
