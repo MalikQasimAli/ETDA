@@ -224,11 +224,10 @@ class EtzLib:
     def plot_relative_position(x, y,time,stem_X,stem_Y,line):
         Visuazlier.plot_relative_position(x, y,time,stem_X,stem_Y,line):   
  # Example usage:
-#my_library = MyLibrary()
 
-# Access and modify data
-#value = my_library.get_value("key1")
-#print(value)
 
-#my_library.set_value("key1", "new_value")
-        
+
+
+
+
+
