@@ -3,7 +3,7 @@
 
 An open-source library to extract events and measurements from raw eye-tracking data. 
 
-<img src="https://github.com/user-attachments/assets/a304afc1-37cd-40c6-9d52-ab4426a71f30" alt="allgroups_circular_pyschopy" width="500"/>
+<img src="https://github.com/user-attachments/assets/a304afc1-37cd-40c6-9d52-ab4426a71f30" alt="allgroups_circular_pyschopy" width="300"/>
 
 
 
