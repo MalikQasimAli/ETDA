@@ -19,7 +19,7 @@ To deploy this project download or pull
 
 ## How to work with ET-DA
 
-1. Fill up required values in JSON file in the ET-DA library:
+1. Fill in the required values in the JSON file in the ET-DA library:
 
 ```bash
   data -> etz_json.json
@@ -27,16 +27,21 @@ To deploy this project download or pull
 
 2. Create a new .py file in the etz directory.
 
-3. Initilize the library: 
+3. Initialize the library: 
 ```bash
   etz = EtzLib()
 ```
-4. Validate csv and JSON
+4. Validate CSV and JSON
 ```bash
  pd= etz.validate_csv_columns('/path/name.csv','et')
 ```
-5. check all available functions and documentation by just writing 
+5. Check all available functions and documentation by just writing 
 ```bash
  etz.
 ```
-as shown in following figure.
+As shown in the following figure.
+![etz](https://github.com/user-attachments/assets/fcd66c1c-8a04-4b33-9dcc-d4f7f21b510a)
+
+![etz2](https://github.com/user-attachments/assets/46a1d293-2ffd-45f2-96b6-96912978bd5a)
+
+
