@@ -3,9 +3,8 @@
 
 An open-source library to extract events and measurements from raw eye-tracking data. 
 
-![allgroups_circular2](https://github.com/user-attachments/assets/7b612127-55d3-4c49-9704-08ac5daa59fb)
-
-<img src="https://github.com/user-attachments/assets/f7c0de58-7740-41e1-8f9d-9c89e0878573" alt="allgroups_circular_pyschopy" width="300"/>
+<img src="https://github.com/user-attachments/assets/7b612127-55d3-4c49-9704-08ac5daa59fb" alt="et" width="300"/>
+<img src="https://github.com/user-attachments/assets/f7c0de58-7740-41e1-8f9d-9c89e0878573" alt="heatmap" width="300"/>
 
 
 
